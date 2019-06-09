@@ -1,0 +1,28 @@
+C:\Users\asus\Desktop\Uygulama\Uygulama\obj\x86\Debug\staj.Form1.resources
+C:\Users\asus\Desktop\Uygulama\Uygulama\obj\x86\Debug\staj.Form2.resources
+C:\Users\asus\Desktop\Uygulama\Uygulama\obj\x86\Debug\staj.Form3.resources
+C:\Users\asus\Desktop\Uygulama\Uygulama\obj\x86\Debug\staj.Form4.resources
+C:\Users\asus\Desktop\Uygulama\Uygulama\obj\x86\Debug\Uygulama.Properties.Resources.resources
+C:\Users\asus\Desktop\Uygulama\Uygulama\obj\x86\Debug\Uygulama.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\Uygulama\Uygulama\obj\x86\Debug\Uygulama.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Uygulama\Uygulama\bin\Debug\Uygulama.exe
+C:\Users\asus\Desktop\Uygulama\Uygulama\bin\Debug\Uygulama.pdb
+C:\Users\asus\Desktop\Uygulama\Uygulama\obj\x86\Debug\Uygulama.exe
+C:\Users\asus\Desktop\Uygulama\Uygulama\obj\x86\Debug\Uygulama.pdb
+C:\Users\asus\Desktop\Uygulama\Uygulama\obj\x86\Debug\Uygulama.csproj.CoreCompileInputs.cache
+D:\ders\Projeler\Staj Projesi\Uygulama\obj\x86\Debug\Uygulama.exe
+D:\ders\Projeler\Staj Projesi\Uygulama\obj\x86\Debug\Uygulama.pdb
+D:\ders\Projeler\Staj Projesi\Proje\Uygulama\obj\x86\Debug\Uygulama.exe
+D:\ders\Projeler\Staj Projesi\Proje\Uygulama\obj\x86\Debug\Uygulama.pdb
+D:\Ders\Projeler\StajProjesi1\Proje\Uygulama\bin\Debug\Uygulama.exe
+D:\Ders\Projeler\StajProjesi1\Proje\Uygulama\bin\Debug\Uygulama.pdb
+D:\Ders\Projeler\StajProjesi1\Proje\Uygulama\obj\x86\Debug\Uygulama.csprojAssemblyReference.cache
+D:\Ders\Projeler\StajProjesi1\Proje\Uygulama\obj\x86\Debug\staj.Form1.resources
+D:\Ders\Projeler\StajProjesi1\Proje\Uygulama\obj\x86\Debug\staj.Form2.resources
+D:\Ders\Projeler\StajProjesi1\Proje\Uygulama\obj\x86\Debug\staj.Form3.resources
+D:\Ders\Projeler\StajProjesi1\Proje\Uygulama\obj\x86\Debug\staj.Form4.resources
+D:\Ders\Projeler\StajProjesi1\Proje\Uygulama\obj\x86\Debug\Uygulama.Properties.Resources.resources
+D:\Ders\Projeler\StajProjesi1\Proje\Uygulama\obj\x86\Debug\Uygulama.csproj.GenerateResource.cache
+D:\Ders\Projeler\StajProjesi1\Proje\Uygulama\obj\x86\Debug\Uygulama.csproj.CoreCompileInputs.cache
+D:\Ders\Projeler\StajProjesi1\Proje\Uygulama\obj\x86\Debug\Uygulama.exe
+D:\Ders\Projeler\StajProjesi1\Proje\Uygulama\obj\x86\Debug\Uygulama.pdb
