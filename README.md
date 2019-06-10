@@ -1,4 +1,4 @@
-# rehber-directory
+# Rehber-Directory
 Masaüstü Rehber Uygulaması / Desktop Directory Application
 
 Staj yaptığım bir firmada kağıt üzerinde yapılan aramaları hızlılaştırmak amacı ile yapılmış bir rehber uygulamasadır. C# ve Mssql Kullanılmıştır.
